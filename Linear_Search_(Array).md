@@ -4,6 +4,10 @@
 
 It is simplest searching algorithm in which you check element (which you want to find) from every element of an array. If it matched it prints the statement **Searched element found at index N)**. Else it prints the statement **Searched element not found at any index**. You can also return index at which element found and -1 if match not found. It depends on function you’re creating.
 
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--KwlAZJVc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/19k583f8kooery0sthod.png)
+
+**Image Reference:** [DEV](https://dev.to/christinamcmahon/linear-binary-and-interpolation-search-algorithms-explained-55ni)
+
 ### Algorithm
 
 1)	Create Array array[5]={1,2,3,4,5} or take input for array.
